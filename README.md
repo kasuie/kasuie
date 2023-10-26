@@ -40,14 +40,14 @@ Here are some ideas to get you started:
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=kasuie&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true&count_private=true"
+    srcset="https://github.kasuie.cc/api/wakatime?username=kasuie&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true&count_private=true"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=kasuie&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true&?count_private=true"
+    srcset="https://github.kasuie.cc/api/wakatime?username=kasuie&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true&?count_private=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=kasuie&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true?count_private=true" />
+  <img src="https://github.kasuie.cc/api/wakatime?username=kasuie&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true?count_private=true" />
 </picture>
 
 </td></tr>
