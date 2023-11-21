@@ -13,33 +13,22 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+<div align="center">
+
+  <!-- profile logo 个人资料徽标 -->
+  <div align="center">
+    <a href="https://index.kasuie.cc/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+    <a href="https://twitter.com/kasuie3/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
+    <a href="https://space.bilibili.com/85447052/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+    <!-- visitor statistics logo 访问量统计徽标 -->
+    <img src="https://komarev.com/ghpvc/?username=kasuie&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+  </div>
+
+</div>
+
 #  🙋 Hello
 
-<table>
-<tr><td>
-
-</td></tr>
-
-<tr><td>
-
-<!-- wakatime 统计 -->
-### 📊 WakaTime
-
-<picture>
-  <source
-    srcset="https://github.kasuie.cc/api/wakatime?username=kasuie&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true&count_private=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github.kasuie.cc/api/wakatime?username=kasuie&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true&?count_private=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github.kasuie.cc/api/wakatime?username=kasuie&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true?count_private=true" />
-</picture>
-
-</td></tr>
-
-</table>
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
