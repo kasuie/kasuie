@@ -87,6 +87,7 @@ Here are some ideas to get you started:
 
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
+<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/left.png" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kasuie&theme=dark&hide_border=true" />
 &emsp;<img width="150" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/right.png" />
 
