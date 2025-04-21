@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <a href="https://index.kasuie.cc/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
+    <a href="https://home.kasuie.cc/"><img src="https://img.shields.io/badge/Website-博客-blue" /></a>&emsp;
     <a href="https://twitter.com/kasuie3/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
     <a href="https://space.bilibili.com/85447052/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
