@@ -39,8 +39,8 @@ Here are some ideas to get you started:
 <!-- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br> -->
   
 <!-- GitHub 数据统计 -->
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=kasuie&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
-<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasuie&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" /><br><br>
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api?username=kasuie&theme=react&show_icons=true&hide_border=true&count_private=true" />
+<img align="" height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasuie&theme=react&show_icons=true&hide_border=true&layout=compact" /><br><br>
 
 </div>
 
